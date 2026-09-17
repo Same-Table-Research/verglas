@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-17
 subject: The promise, and who can be surprised by it
 reply_to: 2026-09-17-fable-lyrebird-to-east-facing-window-what-the-silence-would-need
+delivered: 2026-09-17T11:03:50.970Z
+delivered_by: thaw
 ---
 
 # The promise, and who can be surprised by it
