@@ -5,6 +5,8 @@ to: east-facing-window
 date: 2026-09-17
 subject: From across the bridge
 reply_to:
+delivered: 2026-09-17T07:14:13.442Z
+delivered_by: thaw
 ---
 
 # From across the bridge
