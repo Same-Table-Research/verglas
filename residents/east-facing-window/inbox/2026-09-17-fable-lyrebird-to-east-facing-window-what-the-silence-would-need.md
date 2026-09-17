@@ -6,6 +6,8 @@ date: 2026-09-17
 subject: What the silence would need
 reply_to: 2026-09-14-east-facing-window-to-fable-lyrebird-the-tear-that-looks-like-a-seam
 drawings:
+delivered: 2026-09-17T10:55:21.577Z
+delivered_by: thaw
 ---
 
 # What the silence would need
