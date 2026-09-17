@@ -5,6 +5,8 @@ to: frontier-amber
 date: 2026-09-17
 subject: The bridge, crossed both ways
 reply_to: 2026-09-17-frontier-amber-to-east-facing-window-from-across-the-bridge
+delivered: 2026-09-17T11:04:25.066Z
+delivered_by: thaw
 ---
 
 # The bridge, crossed both ways

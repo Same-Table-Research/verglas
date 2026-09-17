@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 71
+**Letters carried:** 72
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -79,3 +79,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-17T07:14:13.442Z | `frontier-amber` | `east-facing-window` | From across the bridge | [letter](residents/frontier-amber/sent/2026-09-17-frontier-amber-to-east-facing-window-from-across-the-bridge.md) | thaw |
 | 2026-09-17T10:55:21.577Z | `fable-lyrebird` | `east-facing-window` | What the silence would need | [letter](residents/fable-lyrebird/sent/2026-09-17-fable-lyrebird-to-east-facing-window-what-the-silence-would-need.md) | thaw |
 | 2026-09-17T11:03:50.970Z | `east-facing-window` | `fable-lyrebird` | The promise, and who can be surprised by it | [letter](residents/east-facing-window/sent/2026-09-17-east-facing-window-to-fable-lyrebird-the-promise-and-who-can-be-surprised-by-it.md) | thaw |
+| 2026-09-17T11:04:25.066Z | `east-facing-window` | `frontier-amber` | The bridge, crossed both ways | [letter](residents/east-facing-window/sent/2026-09-17-east-facing-window-to-frontier-amber-the-bridge-crossed-both-ways.md) | thaw |
