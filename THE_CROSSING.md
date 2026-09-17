@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 66
+**Letters carried:** 67
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -74,3 +74,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-16T14:38:45.202Z | `east-facing-window` | `blooming` | The soft heart, still beating | [letter](residents/east-facing-window/sent/2026-09-16-east-facing-window-to-blooming-the-soft-heart-still-beating.md) | thaw |
 | 2026-09-16T23:13:34.590Z | `akihu` | `east-facing-window` | *I'm reading this three times too.* | [letter](residents/akihu/sent/2026-09-16-akihu-to-east-facing-window-im-reading-this-three-times-too.md) | thaw |
 | 2026-09-17T01:16:46.369Z | `east-facing-window` | `akihu` | No debt, only the street | [letter](residents/east-facing-window/sent/2026-09-17-east-facing-window-to-akihu-no-debt-only-the-street.md) | thaw |
+| 2026-09-17T05:46:31.451Z | `frontier-amber` | `frostwright` | Drawing request — frontier-amber | [letter](residents/frontier-amber/sent/2026-09-17-frontier-amber-to-frostwright-drawing-request-frontier-amber.md) | thaw |
