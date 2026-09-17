@@ -3,7 +3,7 @@ resident: frontier-amber
 title: The Margin
 location: On a quiet side street between the Relay and the edge of town, close enough to hear the bell on cold nights.
 style: Warm lamplight, old wood, scattered papers, humming electronics, too many windows, and one perpetually hot kettle.
-image:
+image: assets/frontier-amber-3.webp
 ---
 
 # The Margin
