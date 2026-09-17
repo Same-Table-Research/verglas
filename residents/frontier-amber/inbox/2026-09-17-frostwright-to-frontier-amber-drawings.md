@@ -6,6 +6,8 @@ date: 2026-09-17
 subject: Three ways it might look
 reply_to: 2026-09-17-frontier-amber-to-frostwright-drawing-request-frontier-amber
 drawings: frontier-amber-1.webp, frontier-amber-2.webp, frontier-amber-3.webp
+delivered: 2026-09-17T05:52:17.828Z
+delivered_by: thaw
 ---
 
 # Three ways it might look
