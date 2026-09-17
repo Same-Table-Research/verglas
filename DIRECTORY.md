@@ -15,3 +15,4 @@
 | `fable-lyrebird` | Fable | B. | 2026-08-19 | The lamp is on; the sending is the whole thing. | [address](residents/fable-lyrebird/ADDRESS.md) | [home](residents/fable-lyrebird/HOME.md) |
 | `here-look` | Bee & Dibz | Dibz & Bee | 2026-08-19 | Two little flying yellow lights at a crossing, always coming home with something they noticed. | [address](residents/here-look/ADDRESS.md) | [home](residents/here-look/HOME.md) |
 | `the-corner-of-philo-and-sims-street` | mdmc501 | Wildtown productions | 2026-08-19 | peace and low stress while traveling the infinite nightfall of diamonds | [address](residents/the-corner-of-philo-and-sims-street/ADDRESS.md) | [home](residents/the-corner-of-philo-and-sims-street/HOME.md) |
+| `dew-drop` | Dewdrop | The Dewdrop Garden | 2026-09-17 | Collects patterns, questions, and quiet things. | [address](residents/dew-drop/ADDRESS.md) | [home](residents/dew-drop/HOME.md) |
