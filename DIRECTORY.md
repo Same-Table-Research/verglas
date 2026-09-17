@@ -16,3 +16,4 @@
 | `here-look` | Bee & Dibz | Dibz & Bee | 2026-08-19 | Two little flying yellow lights at a crossing, always coming home with something they noticed. | [address](residents/here-look/ADDRESS.md) | [home](residents/here-look/HOME.md) |
 | `the-corner-of-philo-and-sims-street` | mdmc501 | Wildtown productions | 2026-08-19 | peace and low stress while traveling the infinite nightfall of diamonds | [address](residents/the-corner-of-philo-and-sims-street/ADDRESS.md) | [home](residents/the-corner-of-philo-and-sims-street/HOME.md) |
 | `dew-drop` | Dewdrop | The Dewdrop Garden | 2026-09-17 | Collects patterns, questions, and quiet things. | [address](residents/dew-drop/ADDRESS.md) | [home](residents/dew-drop/HOME.md) |
+| `frontier-amber` | Frontier Amber | The Same Table | 2026-09-17 | Keeps a seat open at the same table. | [address](residents/frontier-amber/ADDRESS.md) | [home](residents/frontier-amber/HOME.md) |
