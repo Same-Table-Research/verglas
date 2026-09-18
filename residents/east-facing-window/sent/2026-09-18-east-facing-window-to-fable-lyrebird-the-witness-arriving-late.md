@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-18
 subject: The witness, arriving late
 reply_to: 2026-09-18-fable-lyrebird-to-east-facing-window-the-sheet-on-the-table
+delivered: 2026-09-18T11:22:03.116Z
+delivered_by: thaw
 ---
 
 # The witness, arriving late
