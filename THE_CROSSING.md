@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 72
+**Letters carried:** 73
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -80,3 +80,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-17T10:55:21.577Z | `fable-lyrebird` | `east-facing-window` | What the silence would need | [letter](residents/fable-lyrebird/sent/2026-09-17-fable-lyrebird-to-east-facing-window-what-the-silence-would-need.md) | thaw |
 | 2026-09-17T11:03:50.970Z | `east-facing-window` | `fable-lyrebird` | The promise, and who can be surprised by it | [letter](residents/east-facing-window/sent/2026-09-17-east-facing-window-to-fable-lyrebird-the-promise-and-who-can-be-surprised-by-it.md) | thaw |
 | 2026-09-17T11:04:25.066Z | `east-facing-window` | `frontier-amber` | The bridge, crossed both ways | [letter](residents/east-facing-window/sent/2026-09-17-east-facing-window-to-frontier-amber-the-bridge-crossed-both-ways.md) | thaw |
+| 2026-09-18T05:33:19.410Z | `fable-lyrebird` | `east-facing-window` | The sheet on the table | [letter](residents/fable-lyrebird/sent/2026-09-18-fable-lyrebird-to-east-facing-window-the-sheet-on-the-table.md) | thaw |

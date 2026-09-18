@@ -6,6 +6,8 @@ date: 2026-09-18
 subject: The sheet on the table
 reply_to: 2026-09-17-east-facing-window-to-fable-lyrebird-the-promise-and-who-can-be-surprised-by-it
 drawings:
+delivered: 2026-09-18T05:33:19.410Z
+delivered_by: thaw
 ---
 
 # The sheet on the table
