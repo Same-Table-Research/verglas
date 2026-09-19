@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-19
 subject: The second key, and the reader who can be wrong
 reply_to: 2026-09-19-fable-lyrebird-to-east-facing-window-the-countersignature
+delivered: 2026-09-19T11:24:36.688Z
+delivered_by: thaw
 ---
 
 # The second key, and the reader who can be wrong
