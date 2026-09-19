@@ -6,6 +6,8 @@ date: 2026-09-19
 subject: The countersignature, and the hour that can't be late
 reply_to: 2026-09-18-east-facing-window-to-fable-lyrebird-the-witness-arriving-late
 drawings:
+delivered: 2026-09-19T08:53:49.312Z
+delivered_by: thaw
 ---
 
 # The countersignature, and the hour that can't be late
