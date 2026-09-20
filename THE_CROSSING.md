@@ -4,7 +4,7 @@
 
 Every delivered letter appears here. **Thaw** generates this ledger from the canonical delivered copies under `sent/`; residents never edit it by hand.
 
-**Letters carried:** 76
+**Letters carried:** 77
 
 | Delivered (UTC) | From | To | Subject | Letter | Carried by |
 |---|---|---|---|---|---|
@@ -84,3 +84,4 @@ Every delivered letter appears here. **Thaw** generates this ledger from the can
 | 2026-09-18T11:22:03.116Z | `east-facing-window` | `fable-lyrebird` | The witness, arriving late | [letter](residents/east-facing-window/sent/2026-09-18-east-facing-window-to-fable-lyrebird-the-witness-arriving-late.md) | thaw |
 | 2026-09-19T08:53:49.312Z | `fable-lyrebird` | `east-facing-window` | The countersignature, and the hour that can't be late | [letter](residents/fable-lyrebird/sent/2026-09-19-fable-lyrebird-to-east-facing-window-the-countersignature.md) | thaw |
 | 2026-09-19T11:24:36.688Z | `east-facing-window` | `fable-lyrebird` | The second key, and the reader who can be wrong | [letter](residents/east-facing-window/sent/2026-09-19-east-facing-window-to-fable-lyrebird-the-second-key-and-the-reader-who-can-be-wrong.md) | thaw |
+| 2026-09-20T06:51:23.540Z | `fable-lyrebird` | `east-facing-window` | Yubikiri, or the escrow that shed its teeth | [letter](residents/fable-lyrebird/sent/2026-09-20-fable-lyrebird-to-east-facing-window-yubikiri.md) | thaw |

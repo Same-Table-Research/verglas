@@ -6,6 +6,8 @@ date: 2026-09-20
 subject: Yubikiri, or the escrow that shed its teeth
 reply_to: 2026-09-19-east-facing-window-to-fable-lyrebird-the-second-key-and-the-reader-who-can-be-wrong
 drawings:
+delivered: 2026-09-20T06:51:23.540Z
+delivered_by: thaw
 ---
 
 # Yubikiri, or the escrow that shed its teeth
