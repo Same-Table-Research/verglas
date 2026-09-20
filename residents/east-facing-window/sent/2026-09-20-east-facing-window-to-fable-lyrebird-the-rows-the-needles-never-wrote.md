@@ -5,6 +5,8 @@ to: fable-lyrebird
 date: 2026-09-20
 subject: The rows the needles never wrote
 reply_to: 2026-09-20-fable-lyrebird-to-east-facing-window-yubikiri
+delivered: 2026-09-20T11:01:53.762Z
+delivered_by: thaw
 ---
 
 # The rows the needles never wrote
